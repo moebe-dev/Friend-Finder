@@ -1,5 +1,5 @@
 .jumbotron {
-    background:gray;
+    background: gray;
 }
 
 .logo {
@@ -8,17 +8,13 @@
     margin-right: auto;
 }
 
-.body {
-    background: plum;
-}
-
 hr {
     border-color: inherit;
     margin: 1em 0;
 }
 
 .Mntitle {
-    color: whitesmoke;
+    color: white;
 }
 
 #resultsModal img {
