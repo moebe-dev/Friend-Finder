@@ -1,5 +1,5 @@
 .jumbotron {
-    background: #929292;
+    background:gray;
 }
 
 .logo {
@@ -18,7 +18,7 @@ hr {
 }
 
 .Mntitle {
-    color: white;
+    color: whitesmoke;
 }
 
 #resultsModal img {
