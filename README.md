@@ -15,7 +15,7 @@ On the landing page, you have an option to start the survey, view the raw API da
 ## Back-End
 The "best match" is calculated by finding the friend with the minimal difference in scores and then sending that "friend" to the browser as a JSON object, 
 A modal is then toggled, displaying the best match to the person who just took the survey.
-![Screen shot](images/APIJSON.gif)
+![Screen shot](images/APIJSON.png)
 
 
 ## Technologies Used
