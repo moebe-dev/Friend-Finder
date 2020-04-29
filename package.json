@@ -1,7 +1,7 @@
 {
   "name": "friend-finder",
-  "version": "1.0.0",
-  "description": "Friend Finder Application Using Node.js, Express, And Javascript.",
+  "version": "1.0.1",
+  "description": "Friend Finder - Application Using Node.js, Express, And Javascript.",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.19.0",
